@@ -1,0 +1,15 @@
+C:\Users\Pi\source\repos\BreweryData\bin\Debug\net5.0\BreweryData.deps.json
+C:\Users\Pi\source\repos\BreweryData\bin\Debug\net5.0\BreweryData.runtimeconfig.json
+C:\Users\Pi\source\repos\BreweryData\bin\Debug\net5.0\BreweryData.runtimeconfig.dev.json
+C:\Users\Pi\source\repos\BreweryData\bin\Debug\net5.0\BreweryData.dll
+C:\Users\Pi\source\repos\BreweryData\bin\Debug\net5.0\ref\BreweryData.dll
+C:\Users\Pi\source\repos\BreweryData\bin\Debug\net5.0\BreweryData.pdb
+C:\Users\Pi\source\repos\BreweryData\obj\Debug\net5.0\BreweryData.csproj.AssemblyReference.cache
+C:\Users\Pi\source\repos\BreweryData\obj\Debug\net5.0\BreweryData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pi\source\repos\BreweryData\obj\Debug\net5.0\BreweryData.AssemblyInfoInputs.cache
+C:\Users\Pi\source\repos\BreweryData\obj\Debug\net5.0\BreweryData.AssemblyInfo.cs
+C:\Users\Pi\source\repos\BreweryData\obj\Debug\net5.0\BreweryData.csproj.CoreCompileInputs.cache
+C:\Users\Pi\source\repos\BreweryData\obj\Debug\net5.0\BreweryData.dll
+C:\Users\Pi\source\repos\BreweryData\obj\Debug\net5.0\ref\BreweryData.dll
+C:\Users\Pi\source\repos\BreweryData\obj\Debug\net5.0\BreweryData.pdb
+C:\Users\Pi\source\repos\BreweryData\obj\Debug\net5.0\BreweryData.genruntimeconfig.cache

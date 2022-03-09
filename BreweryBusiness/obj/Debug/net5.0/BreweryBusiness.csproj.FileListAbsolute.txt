@@ -1,0 +1,15 @@
+C:\Users\Pi\source\repos\BreweryBusiness\obj\Debug\net5.0\BreweryBusiness.csproj.AssemblyReference.cache
+C:\Users\Pi\source\repos\BreweryBusiness\obj\Debug\net5.0\BreweryBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pi\source\repos\BreweryBusiness\obj\Debug\net5.0\BreweryBusiness.AssemblyInfoInputs.cache
+C:\Users\Pi\source\repos\BreweryBusiness\obj\Debug\net5.0\BreweryBusiness.AssemblyInfo.cs
+C:\Users\Pi\source\repos\BreweryBusiness\obj\Debug\net5.0\BreweryBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Pi\source\repos\BreweryBusiness\bin\Debug\net5.0\BreweryBusiness.deps.json
+C:\Users\Pi\source\repos\BreweryBusiness\bin\Debug\net5.0\BreweryBusiness.dll
+C:\Users\Pi\source\repos\BreweryBusiness\bin\Debug\net5.0\ref\BreweryBusiness.dll
+C:\Users\Pi\source\repos\BreweryBusiness\bin\Debug\net5.0\BreweryBusiness.pdb
+C:\Users\Pi\source\repos\BreweryBusiness\bin\Debug\net5.0\BreweryData.dll
+C:\Users\Pi\source\repos\BreweryBusiness\bin\Debug\net5.0\BreweryData.pdb
+C:\Users\Pi\source\repos\BreweryBusiness\obj\Debug\net5.0\BreweryBusiness.csproj.CopyComplete
+C:\Users\Pi\source\repos\BreweryBusiness\obj\Debug\net5.0\BreweryBusiness.dll
+C:\Users\Pi\source\repos\BreweryBusiness\obj\Debug\net5.0\ref\BreweryBusiness.dll
+C:\Users\Pi\source\repos\BreweryBusiness\obj\Debug\net5.0\BreweryBusiness.pdb
